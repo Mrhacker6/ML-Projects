@@ -29,6 +29,10 @@ Stay Competitive: By reacting to competitor prices in real-time, companies can o
 
 Improve Customer Targeting: Segmenting customers allows businesses to tailor prices based on willingness to pay or loyalty.
 
+# Regression Model
+
+Here is the Code and the Dataset for the Regression model in Machine Learning in R language.
+
 Balance Supply and Demand: Dynamic pricing helps to balance product availability with demand, ensuring smoother operations.
 ## Acknowledgements
 
